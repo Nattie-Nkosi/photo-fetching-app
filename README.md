@@ -1,6 +1,6 @@
-# pics
+# Photo fetching app
 
-A new Flutter project.
+A small flutter app, fetches images from an API and displays them on a mobile screen.
 
 ## Getting Started
 
